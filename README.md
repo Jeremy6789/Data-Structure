@@ -5,8 +5,10 @@
 #### 學號：41271104H
 # 作業繳交區
 ## 作業一
+#### Test
 ### [AI Agent資料抽換測試(程式碼)](https://github.com/Jeremy6789/Bus-AI-agent/blob/main/dataAgent2.py)
 ### [AI Agent資料抽換測試(影片)](https://youtu.be/3jxrZ2d7-y0)
+#### AI Agent設計 - 員工狀態分析
 ### [AI Agent專案_設計圖(影片)](https://youtu.be/CjUdn8RBDXY)
-### [AI Agent專案_資料抽換(程式碼)](https://github.com/Jeremy6789/Employee-AI-Agent.git)
+### [AI Agent專案_資料抽換(程式碼)](https://github.com/Jeremy6789/Employee-AI-Agent/blob/main/dataAgent3.py)
 ### [AI Agent專案_資料抽換(影片)](https://youtu.be/CGrjYb2Zs5Q)
