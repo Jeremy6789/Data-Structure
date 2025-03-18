@@ -12,6 +12,5 @@
 ### [AI Agent專案_資料抽換(程式碼)](https://github.com/Jeremy6789/Employee-AI-Agent/blob/main/dataAgent3.py)
 ### [AI Agent專案_資料抽換(影片)](https://youtu.be/CGrjYb2Zs5Q)
 ### [AI Agent專案_設計圖(影片)](https://youtu.be/CjUdn8RBDXY)
- ![AI Agent 設計架構](https://github.com/user-attachments/assets/c182bd9f-461d-4d5d-808e-e273219455a6)
- <img src="https://github.com/user-attachments/assets/c182bd9f-461d-4d5d-808e-e273219455a6" alt="AI Agent 設計架構" width="400">
+ <img src="https://github.com/user-attachments/assets/c182bd9f-461d-4d5d-808e-e273219455a6" alt="AI Agent 設計架構" width="600">
 
