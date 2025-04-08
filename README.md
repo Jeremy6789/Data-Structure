@@ -26,5 +26,9 @@
 
 
 ## 作業三
+[Playwright示範影片](https://youtu.be/uEQr71TN7Sg)
+[Playwright程式碼](https://github.com/Jeremy6789/Employee-AI-Agent/blob/main/post3.py)
+<img src="https://github.com/user-attachments/assets/880397c1-fb68-4010-80e4-74b5f6c1e484" alt="生成的CSV" width="600">
+
 ## 作業四
 
