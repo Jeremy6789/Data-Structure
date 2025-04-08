@@ -17,6 +17,7 @@
 ### [AI Agent專案_設計圖(影片)](https://youtu.be/CjUdn8RBDXY)
 
 ## 作業二
+### 員工評論回饋正負面判斷以及統整
 ### [DRai(程式碼)](https://github.com/Jeremy6789/Employee-AI-Agent/blob/main/DRai/DRai2.py)
 ### 執行截圖
 <img src="https://github.com/user-attachments/assets/8a0b9ba5-e0fa-44d5-9433-0538632caa00" alt="執行截圖" width="700">
@@ -26,6 +27,7 @@
 
 
 ## 作業三
+### 自動登入Github並在Readme中寫下文字
 ### [Playwright示範影片](https://youtu.be/uEQr71TN7Sg)
 ### [Playwright程式碼](https://github.com/Jeremy6789/Employee-AI-Agent/blob/main/post3.py)
 <img src="https://github.com/user-attachments/assets/880397c1-fb68-4010-80e4-74b5f6c1e484" alt="生成的CSV" width="600">
