@@ -18,6 +18,7 @@
 
 ## 作業二
 ### [DRai(程式碼)](https://github.com/Jeremy6789/Employee-AI-Agent/blob/main/DRai/DRai2.py)
+![image](https://github.com/user-attachments/assets/8a0b9ba5-e0fa-44d5-9433-0538632caa00)
 
 ## 作業三
 ## 作業四
