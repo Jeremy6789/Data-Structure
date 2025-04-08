@@ -20,8 +20,9 @@
 ### [DRai(程式碼)](https://github.com/Jeremy6789/Employee-AI-Agent/blob/main/DRai/DRai2.py)
 ### 執行截圖
 <img src="https://github.com/user-attachments/assets/8a0b9ba5-e0fa-44d5-9433-0538632caa00" alt="執行截圖" width="700">
+
 ### 生成的CSV
-<img src="https://github.com/user-attachments/assets/1bb03daf-a5e9-44da-9d00-2ef2b4f4a0b6" alt="生成的CSV" width="700">
+<img src="https://github.com/user-attachments/assets/1bb03daf-a5e9-44da-9d00-2ef2b4f4a0b6" alt="生成的CSV" width="600">
 
 
 ## 作業三
