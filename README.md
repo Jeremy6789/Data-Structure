@@ -17,6 +17,8 @@
 ### [AI Agent專案_設計圖(影片)](https://youtu.be/CjUdn8RBDXY)
 
 ## 作業二
+### [DRai(程式碼)](https://github.com/Jeremy6789/Employee-AI-Agent/blob/main/DRai/DRai2.py)
+
 ## 作業三
 ## 作業四
 
