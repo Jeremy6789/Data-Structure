@@ -36,8 +36,8 @@
 ### 分析報告整理成一份PDF
 ### [getPDF程式碼](https://github.com/Jeremy6789/Employee-AI-Agent/blob/main/DRai/getPDF.py)
 ### 執行截圖
-<img src="https://github.com/user-attachments/assets/814204f6-8596-43ef-b046-4437fa4ffcea" alt="getPDF執行截圖" width="600">
-<img src="https://github.com/user-attachments/assets/1208b340-8188-4b30-9650-3b644880eeb8" alt="getPDF執行截圖2" width="600">
+<img src="https://github.com/user-attachments/assets/814204f6-8596-43ef-b046-4437fa4ffcea" alt="getPDF執行截圖" width="700">
+<img src="https://github.com/user-attachments/assets/1208b340-8188-4b30-9650-3b644880eeb8" alt="getPDF執行截圖2" width="700">
 
 ### 生成的PDF
 <img src="https://github.com/user-attachments/assets/03941720-19ee-49a8-95ba-ed08e4828e64" alt="生成的PDF" width="600">
