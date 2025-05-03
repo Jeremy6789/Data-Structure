@@ -48,7 +48,9 @@
 
 ## 作業五
 ### 製作前端葉面
-### [程式碼]()
+### [程式碼資料夾](https://github.com/Jeremy6789/Employee-AI-Agent/tree/main/EMO)
+### [前端程式碼](https://github.com/Jeremy6789/Employee-AI-Agent/blob/main/EMO/templates/index.html)
 ### 執行截圖
+<img src="(https://github.com/user-attachments/assets/3afcb290-2105-4372-8d97-2df0a80a9b58" alt="前端" width="600">
 
 
