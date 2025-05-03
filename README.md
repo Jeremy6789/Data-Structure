@@ -1,4 +1,4 @@
-# 資料結構 Data Structure
+![127 0 0 1_5000_ (8)](https://github.com/user-attachments/assets/36f4a310-328d-4b8a-b7bb-1ca56d8575ed)# 資料結構 Data Structure
 #### 授課教授：蔡芸琤 教授
 #### 學生：李東璟
 #### 系級：科技系116級
@@ -51,7 +51,7 @@
 ### [程式碼資料夾](https://github.com/Jeremy6789/Employee-AI-Agent/tree/main/EMO)
 ### [前端程式碼](https://github.com/Jeremy6789/Employee-AI-Agent/blob/main/EMO/templates/index.html)
 ### 執行截圖
-<img src="https://github.com/user-attachments/assets/3afcb290-2105-4372-8d97-2df0a80a9b58" alt="前端" width="600">
+<img src="https://github.com/user-attachments/assets/7614fd7b-2c09-47fa-852c-19aaaa7403b3" alt="前端" width="600">
 
 
 
