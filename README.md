@@ -52,6 +52,6 @@
 ### [前端程式碼](https://github.com/Jeremy6789/Employee-AI-Agent/blob/main/EMO/templates/index.html)
 ### 執行截圖
 <img src="https://github.com/user-attachments/assets/3afcb290-2105-4372-8d97-2df0a80a9b58" alt="前端" width="600">
-![image](https://github.com/user-attachments/assets/534426c7-c9d8-41fa-9e65-b3a5899c82db)
+
 
 
